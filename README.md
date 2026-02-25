@@ -229,21 +229,21 @@ endmodule</pre>
 [Watch the Simulation Video]() 
 
 ## 📸 State Diagram
-![State Diagram](<img width="784" height="353" alt="image" src="https://github.com/user-attachments/assets/f70fcd55-941d-41fd-85d4-1aaa6efeaa9b" />)
+<img width="784" height="353" alt="image" src="https://github.com/user-attachments/assets/f70fcd55-941d-41fd-85d4-1aaa6efeaa9b" />
 
 ## ⏱️ Design Timing Summary
-![Design Timing Summary](<img width="1280" height="398" alt="image" src="https://github.com/user-attachments/assets/56043175-3a12-43c2-a935-7093b1b63995" />)
+<img width="1280" height="398" alt="image" src="https://github.com/user-attachments/assets/56043175-3a12-43c2-a935-7093b1b63995" />
 
 
 ## 📈 Output Waveform
-![Output Waveform](<img width="1280" height="637" alt="image" src="https://github.com/user-attachments/assets/e10f81f3-b228-4e98-a7ac-32b6d22acfce" />)
+<img width="1280" height="637" alt="image" src="https://github.com/user-attachments/assets/e10f81f3-b228-4e98-a7ac-32b6d22acfce" />
 
 ## 🧩 Schematic Diagram
-![Schematic Diagram](<img width="1280" height="418" alt="image" src="https://github.com/user-attachments/assets/96b44111-be0f-47aa-8a06-3fc559100b62" />)
-![Schematic Diagram](<img width="1280" height="237" alt="image" src="https://github.com/user-attachments/assets/0215fc9c-b0d5-42f2-8da7-d2e59f741d6b" />)
+<img width="1280" height="418" alt="image" src="https://github.com/user-attachments/assets/96b44111-be0f-47aa-8a06-3fc559100b62" />
+<img width="1280" height="237" alt="image" src="https://github.com/user-attachments/assets/0215fc9c-b0d5-42f2-8da7-d2e59f741d6b" />
 
 ## 📊 Summary
-![Summary](<img width="1280" height="431" alt="image" src="https://github.com/user-attachments/assets/df03c25f-869e-4b7c-9f5f-053c2f70b23e" />)
+<img width="1280" height="431" alt="image" src="https://github.com/user-attachments/assets/df03c25f-869e-4b7c-9f5f-053c2f70b23e" />
 
 ## 👥 Contributors
 [Santhosh V](https://github.com/SANTHOSH-2809), ECE, Bannari Amman Institute Of Technology [Linked IN](https://www.linkedin.com/in/santhosh-v-31142232b/)
