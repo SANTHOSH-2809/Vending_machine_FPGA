@@ -1,0 +1,19 @@
+Vending Machine FSM (1, 2 Coins, ₹5 Product)
+Problem Statement:
+
+Design an FSM for a Vending Machine that accepts coins of 1 and 2 denominations. The machine should:
+⮚Accumulate the total inserted amount.
+⮚Dispense the product when 5 or more is reached.
+⮚Return excess amount if inserted > 5.
+⮚Reset after dispensing.
+
+Inputs:
+⮚clk, reset
+⮚coin [1:0] 2'b01 for ₹1, 2'b10 for 2
+
+Outputs:
+⮚product_dispense
+⮚return_change[2:0]
+
+States:
+⮚₹0, ₹1, ₹2, ₹3, ₹4, ₹5_OR_MORE
