@@ -1,0 +1,21 @@
+`timescale 1ns / 1ps
+module top(c_out,reset, coin,product_dispense,return_change,done);
+     input c_out, reset ;
+     input  [1:0] coin;
+     output product_dispense;
+     output return_change;
+     output done;
+     wire clk; 
+clock_divider clk_div (
+        .c_out(clk),
+        .clk(c_out),
+        .rst(reset)
+    );
+    vend vend_inst (
+        .clk(clk), 
+        .reset(reset),
+        .coin(coin),
+        .product_dispense(product_dispense),
+        .return_change(return_change),
+        .done(done));
+endmodule
