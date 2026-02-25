@@ -193,13 +193,13 @@ endmodule</pre>
   end
 endmodule</pre>
 ## 📂 Files
-[Constraints](https://github.com/Rahul-Sivesh/Vending-Machine-FSM/blob/main/Constraints)
+[Constraints](https://github.com/SANTHOSH-2809/Vending_machine_FPGA/blob/main/constraints)
 
-[Top Module](https://github.com/Rahul-Sivesh/Vending-Machine-FSM/blob/main/Top%20Module)
+[Top Module](https://github.com/SANTHOSH-2809/Vending_machine_FPGA/blob/main/top_module)
 
-[Clock Divider](https://github.com/Rahul-Sivesh/Vending-Machine-FSM/blob/main/Clock%20Divider)
+[Clock Divider](https://github.com/SANTHOSH-2809/Vending_machine_FPGA/blob/main/clock%20divider)
 
-[Problem Statement](https://github.com/Rahul-Sivesh/Vending-Machine-FSM/blob/main/Problem%20Statement)
+[Problem Statement](https://github.com/SANTHOSH-2809/Vending_machine_FPGA/blob/main/Problem%20Statement)
 
 
 ## 🔍 Possible Operation
