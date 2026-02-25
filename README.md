@@ -226,7 +226,7 @@ endmodule</pre>
 |Done|Output|T22|
 
 ### 🎥 Demo Video
-[Watch the Simulation Video]() 
+[Watch the Simulation Video](https://drive.google.com/file/d/1fG8oXdWLRYcscORv3VekL12DaBjof3BH/view?usp=sharing) 
 
 ## 📸 State Diagram
 <img width="784" height="353" alt="image" src="https://github.com/user-attachments/assets/f70fcd55-941d-41fd-85d4-1aaa6efeaa9b" />
